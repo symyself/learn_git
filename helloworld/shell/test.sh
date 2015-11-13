@@ -1,2 +1,3 @@
 #!/bin/sh
-echo date +%F
+echo $(date +%F)
+ifconfig
